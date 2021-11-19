@@ -12,6 +12,11 @@
 
 
 
-###  Author
+###  Author and Creator
 
 LEE SEOMIN
+
+
+### Algorithm
+
+https://github.com/leeseomin/arte37
