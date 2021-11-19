@@ -9,3 +9,9 @@
  ### Mural painting in 7,000 A.D  #2
  
   <img src="https://github.com/leeseomin/Mural_7000AD/blob/main/ART/2.jpg" width="2000">
+
+
+
+###  Author
+
+LEE SEOMIN
