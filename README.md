@@ -23,6 +23,12 @@
  
 <img src="https://github.com/leeseomin/Mural_7000AD/blob/main/ART/6.jpg" width="2000"> 
 
+
+ ### Mural painting in 7,000 A.D  #7
+ 
+<img src="https://github.com/leeseomin/Mural_7000AD/blob/main/ART/7.jpg" width="2000"> 
+
+
 ###  Author and Creator
 
 LEE SEOMIN
